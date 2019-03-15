@@ -18,6 +18,9 @@ public class GitRepositoryLearning {
 		int num2 = num + num1;
 		System.out.println("num2 = "+ num2);
 
+		String bmw = "car brand";
+		String bmw1 = " car model";
+		
 	}
 
 }
