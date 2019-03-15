@@ -8,6 +8,9 @@ public class GitRepositoryLearning {
 		String life = "simple";
 		System.out.println(well + life);
 		System.out.println("it is:" + well);
+		
+		int num = 5;
+		int num1= 7;
 	}
 
 }
