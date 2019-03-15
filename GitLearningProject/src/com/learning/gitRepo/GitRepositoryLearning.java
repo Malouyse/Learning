@@ -20,7 +20,7 @@ public class GitRepositoryLearning {
 
 		String bmw = "car brand";
 		String bmw1 = " car model";
-		
+	System.out.println(bmw);	
 	}
 
 }
