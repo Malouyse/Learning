@@ -6,7 +6,7 @@ public class GitRepositoryLearning {
 		
 		String well = " nice";
 		String life = "simple";
-		
+		System.out.println(well + life);
 	}
 
 }
